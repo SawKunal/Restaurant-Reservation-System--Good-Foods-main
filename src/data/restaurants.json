@@ -1,0 +1,3238 @@
+[
+  {
+    "id": "rest_001",
+    "name": "Giuseppe's Spot",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "6640 Broadway St, Downtown",
+    "phone": "(972) 691-2651",
+    "email": "info@giuseppesspot.com",
+    "capacity": 80,
+    "price_range": "$50",
+    "rating": 3.8,
+    "description": "Family-owned restaurant serving delicious italian food since 1995.",
+    "features": [
+      "rooftop",
+      "wine-bar",
+      "vegan-options",
+      "wheelchair-accessible",
+      "live-music",
+      "business-friendly"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "family-gathering",
+      "graduation",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_002",
+    "name": "Bistro Corner",
+    "cuisine_type": "French",
+    "location": "Eastside",
+    "address": "9171 Second St, Eastside",
+    "phone": "(538) 909-4637",
+    "email": "info@bistrocorner.com",
+    "capacity": 20,
+    "price_range": "$20",
+    "rating": 5.0,
+    "description": "Experience the finest french flavors with our traditional recipes. Perfect for intimate dining and special occasions.",
+    "features": [
+      "romantic",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "family-gathering",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_003",
+    "name": "Boulangerie Spot",
+    "cuisine_type": "French",
+    "location": "Westside",
+    "address": "6222 First St, Westside",
+    "phone": "(578) 686-9315",
+    "email": "info@boulangeriespot.com",
+    "capacity": 40,
+    "price_range": "$50",
+    "rating": 4.7,
+    "description": "Upscale french dining with an extensive wine selection. Great for families with children. Enjoy dining on our beautiful patio.",
+    "features": [
+      "buffet",
+      "family-friendly",
+      "private-dining",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "8:00-22:00",
+      "saturday": "8:00-22:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_004",
+    "name": "Bella Garden",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "2571 Elm St, Downtown",
+    "phone": "(964) 817-3763",
+    "email": "info@bellagarden.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 3.8,
+    "description": "A modern take on classic italian dishes with fresh ingredients.",
+    "features": [
+      "pet-friendly",
+      "gluten-free",
+      "wine-bar",
+      "buffet",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_005",
+    "name": "Jade Bar",
+    "cuisine_type": "Chinese",
+    "location": "Eastside",
+    "address": "2400 First St, Eastside",
+    "phone": "(842) 597-5070",
+    "email": "info@jadebar.com",
+    "capacity": 20,
+    "price_range": "$50",
+    "rating": 3.6,
+    "description": "Authentic chinese cuisine served in a welcoming atmosphere. Enjoy dining on our beautiful patio.",
+    "features": [
+      "catering",
+      "wheelchair-accessible",
+      "rooftop",
+      "outdoor-seating",
+      "bar"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "9:00-22:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "corporate-event",
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_006",
+    "name": "Mama Place",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "4368 Pine St, Downtown",
+    "phone": "(664) 273-1246",
+    "email": "info@mamaplace.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 4.9,
+    "description": "Upscale italian dining with an extensive wine selection. Perfect for intimate dining and special occasions.",
+    "features": [
+      "business-friendly",
+      "catering",
+      "romantic"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "graduation",
+      "anniversary",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_007",
+    "name": "Golden Bar",
+    "cuisine_type": "Chinese",
+    "location": "Eastside",
+    "address": "7645 Second St, Eastside",
+    "phone": "(968) 147-7676",
+    "email": "info@goldenbar.com",
+    "capacity": 120,
+    "price_range": "$40",
+    "rating": 4.2,
+    "description": "Experience the finest chinese flavors with our traditional recipes. Perfect for intimate dining and special occasions.",
+    "features": [
+      "takeout",
+      "romantic",
+      "rooftop",
+      "business-friendly",
+      "vegan-options",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "celebration",
+      "anniversary",
+      "corporate-event",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_008",
+    "name": "Cantina Kitchen",
+    "cuisine_type": "Mexican",
+    "location": "Uptown",
+    "address": "5696 Pine St, Uptown",
+    "phone": "(525) 500-1314",
+    "email": "info@cantinakitchen.com",
+    "capacity": 120,
+    "price_range": "$30",
+    "rating": 3.8,
+    "description": "Upscale mexican dining with an extensive wine selection.",
+    "features": [
+      "rooftop",
+      "brunch",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "9:00-23:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_009",
+    "name": "Café Cafe",
+    "cuisine_type": "French",
+    "location": "Northside",
+    "address": "5325 Center St, Northside",
+    "phone": "(696) 317-2178",
+    "email": "info@cafécafe.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 3.6,
+    "description": "Family-owned restaurant serving delicious french food since 1995. Great for families with children.",
+    "features": [
+      "vegan-options",
+      "family-friendly",
+      "parking",
+      "bar"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_010",
+    "name": "Bangkok Spot",
+    "cuisine_type": "Thai",
+    "location": "Westside",
+    "address": "9679 Main St, Westside",
+    "phone": "(764) 832-8344",
+    "email": "info@bangkokspot.com",
+    "capacity": 40,
+    "price_range": "$30",
+    "rating": 3.6,
+    "description": "Experience the finest thai flavors with our traditional recipes. Perfect for intimate dining and special occasions.",
+    "features": [
+      "brunch",
+      "rooftop",
+      "pet-friendly",
+      "romantic"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "8:00-22:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_011",
+    "name": "Bombay Restaurant",
+    "cuisine_type": "Indian",
+    "location": "Westside",
+    "address": "6848 Oak St, Westside",
+    "phone": "(294) 214-6753",
+    "email": "info@bombayrestaurant.com",
+    "capacity": 60,
+    "price_range": "$40",
+    "rating": 3.9,
+    "description": "A modern take on classic indian dishes with fresh ingredients. Perfect for intimate dining and special occasions.",
+    "features": [
+      "private-dining",
+      "romantic",
+      "wheelchair-accessible",
+      "late-night"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_012",
+    "name": "La Bar",
+    "cuisine_type": "French",
+    "location": "Northside",
+    "address": "563 Broadway St, Northside",
+    "phone": "(489) 347-5619",
+    "email": "info@labar.com",
+    "capacity": 120,
+    "price_range": "$50",
+    "rating": 4.0,
+    "description": "Experience the finest french flavors with our traditional recipes. Great for families with children. Enjoy dining on our beautiful patio.",
+    "features": [
+      "gluten-free",
+      "outdoor-seating",
+      "delivery",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "graduation",
+      "anniversary",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_013",
+    "name": "Tokyo Restaurant",
+    "cuisine_type": "Japanese",
+    "location": "Eastside",
+    "address": "6385 Main St, Eastside",
+    "phone": "(256) 545-7790",
+    "email": "info@tokyorestaurant.com",
+    "capacity": 80,
+    "price_range": "$20",
+    "rating": 3.7,
+    "description": "Upscale japanese dining with an extensive wine selection.",
+    "features": [
+      "late-night",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_014",
+    "name": "Zen Restaurant",
+    "cuisine_type": "Japanese",
+    "location": "Downtown",
+    "address": "6599 Elm St, Downtown",
+    "phone": "(635) 302-1422",
+    "email": "info@zenrestaurant.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 4.4,
+    "description": "Upscale japanese dining with an extensive wine selection. Perfect for intimate dining and special occasions.",
+    "features": [
+      "parking",
+      "business-friendly",
+      "romantic",
+      "private-dining",
+      "wheelchair-accessible"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "family-gathering",
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_015",
+    "name": "Rajah Bistro",
+    "cuisine_type": "Indian",
+    "location": "Northside",
+    "address": "8422 Pine St, Northside",
+    "phone": "(348) 261-6369",
+    "email": "info@rajahbistro.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 4.3,
+    "description": "Family-owned restaurant serving delicious indian food since 1995.",
+    "features": [
+      "catering",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "9:00-23:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_016",
+    "name": "Mama Bistro",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "4508 First St, Downtown",
+    "phone": "(333) 789-1073",
+    "email": "info@mamabistro.com",
+    "capacity": 80,
+    "price_range": "$50",
+    "rating": 4.9,
+    "description": "A modern take on classic italian dishes with fresh ingredients. Enjoy dining on our beautiful patio.",
+    "features": [
+      "outdoor-seating",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "graduation",
+      "wedding-party",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_017",
+    "name": "Taj Room",
+    "cuisine_type": "Indian",
+    "location": "Southside",
+    "address": "141 Oak St, Southside",
+    "phone": "(960) 777-5856",
+    "email": "info@tajroom.com",
+    "capacity": 120,
+    "price_range": "$20",
+    "rating": 5.0,
+    "description": "Experience the finest indian flavors with our traditional recipes.",
+    "features": [
+      "catering",
+      "pet-friendly",
+      "parking",
+      "buffet"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "birthday",
+      "graduation",
+      "celebration",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_018",
+    "name": "La Place",
+    "cuisine_type": "French",
+    "location": "Downtown",
+    "address": "6119 Elm St, Downtown",
+    "phone": "(739) 581-9910",
+    "email": "info@laplace.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 5.0,
+    "description": "Family-owned restaurant serving delicious french food since 1995. Enjoy dining on our beautiful patio.",
+    "features": [
+      "wheelchair-accessible",
+      "outdoor-seating",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "celebration",
+      "graduation",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_019",
+    "name": "Bombay Spot",
+    "cuisine_type": "Indian",
+    "location": "Northside",
+    "address": "8436 Oak St, Northside",
+    "phone": "(427) 352-9637",
+    "email": "info@bombayspot.com",
+    "capacity": 120,
+    "price_range": "$30",
+    "rating": 5.0,
+    "description": "Upscale indian dining with an extensive wine selection.",
+    "features": [
+      "vegan-options",
+      "late-night"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "8:00-22:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "celebration",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_020",
+    "name": "Café Place",
+    "cuisine_type": "French",
+    "location": "Westside",
+    "address": "9092 Second St, Westside",
+    "phone": "(892) 990-8654",
+    "email": "info@caféplace.com",
+    "capacity": 200,
+    "price_range": "$30",
+    "rating": 4.3,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "wheelchair-accessible",
+      "business-friendly",
+      "bar"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_021",
+    "name": "Coconut Table",
+    "cuisine_type": "Thai",
+    "location": "Midtown",
+    "address": "2761 First St, Midtown",
+    "phone": "(755) 969-5390",
+    "email": "info@coconuttable.com",
+    "capacity": 50,
+    "price_range": "$50",
+    "rating": 4.3,
+    "description": "Upscale thai dining with an extensive wine selection. Great for families with children.",
+    "features": [
+      "takeout",
+      "business-friendly",
+      "wheelchair-accessible",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_022",
+    "name": "Bella Table",
+    "cuisine_type": "Italian",
+    "location": "Midtown",
+    "address": "228 Second St, Midtown",
+    "phone": "(297) 303-8499",
+    "email": "info@bellatable.com",
+    "capacity": 30,
+    "price_range": "$50",
+    "rating": 3.6,
+    "description": "Family-owned restaurant serving delicious italian food since 1995.",
+    "features": [
+      "buffet",
+      "wheelchair-accessible"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "9:00-23:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_023",
+    "name": "Bombay Spot",
+    "cuisine_type": "Indian",
+    "location": "Southside",
+    "address": "4965 Second St, Southside",
+    "phone": "(752) 857-8469",
+    "email": "info@bombayspot.com",
+    "capacity": 60,
+    "price_range": "$30",
+    "rating": 4.3,
+    "description": "Upscale indian dining with an extensive wine selection.",
+    "features": [
+      "rooftop",
+      "catering",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "date-night",
+      "birthday",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_024",
+    "name": "Jade Cafe",
+    "cuisine_type": "Chinese",
+    "location": "Downtown",
+    "address": "110 Center St, Downtown",
+    "phone": "(519) 591-1195",
+    "email": "info@jadecafe.com",
+    "capacity": 80,
+    "price_range": "$30",
+    "rating": 4.3,
+    "description": "Upscale chinese dining with an extensive wine selection.",
+    "features": [
+      "gluten-free",
+      "late-night"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "graduation",
+      "holiday-party",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_025",
+    "name": "Jade Kitchen",
+    "cuisine_type": "Chinese",
+    "location": "Southside",
+    "address": "9256 Elm St, Southside",
+    "phone": "(313) 308-7550",
+    "email": "info@jadekitchen.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 4.0,
+    "description": "Authentic chinese cuisine served in a welcoming atmosphere. Great for families with children.",
+    "features": [
+      "catering",
+      "parking",
+      "family-friendly",
+      "delivery",
+      "business-friendly",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "11:00-22:30",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "graduation",
+      "celebration",
+      "corporate-event",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_026",
+    "name": "Curry Bistro",
+    "cuisine_type": "Indian",
+    "location": "Financial District",
+    "address": "5510 Main St, Financial District",
+    "phone": "(933) 936-4800",
+    "email": "info@currybistro.com",
+    "capacity": 20,
+    "price_range": "$50",
+    "rating": 4.1,
+    "description": "Upscale indian dining with an extensive wine selection. Great for families with children.",
+    "features": [
+      "rooftop",
+      "parking",
+      "buffet",
+      "family-friendly",
+      "wheelchair-accessible",
+      "delivery"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "celebration",
+      "holiday-party",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_027",
+    "name": "Lucky Garden",
+    "cuisine_type": "Chinese",
+    "location": "Westside",
+    "address": "3558 Broadway St, Westside",
+    "phone": "(423) 470-3786",
+    "email": "info@luckygarden.com",
+    "capacity": 150,
+    "price_range": "$20",
+    "rating": 4.6,
+    "description": "Experience the finest chinese flavors with our traditional recipes.",
+    "features": [
+      "brunch",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_028",
+    "name": "Villa Grill",
+    "cuisine_type": "Italian",
+    "location": "Southside",
+    "address": "3235 Center St, Southside",
+    "phone": "(539) 670-6470",
+    "email": "info@villagrill.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 4.4,
+    "description": "Authentic italian cuisine served in a welcoming atmosphere. Great for families with children.",
+    "features": [
+      "live-music",
+      "delivery",
+      "family-friendly",
+      "buffet",
+      "business-friendly",
+      "brunch"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "9:00-22:00",
+      "friday": "8:00-22:00",
+      "saturday": "11:00-23:30",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "wedding-party",
+      "holiday-party",
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_029",
+    "name": "Le Corner",
+    "cuisine_type": "French",
+    "location": "Financial District",
+    "address": "4922 First St, Financial District",
+    "phone": "(220) 542-9618",
+    "email": "info@lecorner.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 4.7,
+    "description": "A modern take on classic french dishes with fresh ingredients.",
+    "features": [
+      "late-night",
+      "buffet"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "9:00-23:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "celebration",
+      "holiday-party",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_030",
+    "name": "Mama Spot",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "4496 Broadway St, Downtown",
+    "phone": "(488) 462-3014",
+    "email": "info@mamaspot.com",
+    "capacity": 80,
+    "price_range": "$20",
+    "rating": 4.9,
+    "description": "Family-owned restaurant serving delicious italian food since 1995. Perfect for intimate dining and special occasions. Great for families with children. Enjoy dining on our beautiful patio.",
+    "features": [
+      "delivery",
+      "romantic",
+      "family-friendly",
+      "gluten-free",
+      "rooftop",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "11:00-22:30",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "9:00-23:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "birthday",
+      "wedding-party",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_031",
+    "name": "Boulangerie Table",
+    "cuisine_type": "French",
+    "location": "Uptown",
+    "address": "5195 Elm St, Uptown",
+    "phone": "(239) 399-4935",
+    "email": "info@boulangerietable.com",
+    "capacity": 200,
+    "price_range": "$50",
+    "rating": 4.7,
+    "description": "Family-owned restaurant serving delicious french food since 1995.",
+    "features": [
+      "buffet",
+      "private-dining",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_032",
+    "name": "Chez House",
+    "cuisine_type": "French",
+    "location": "Midtown",
+    "address": "9548 First St, Midtown",
+    "phone": "(397) 245-8271",
+    "email": "info@chezhouse.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 4.6,
+    "description": "Family-owned restaurant serving delicious french food since 1995.",
+    "features": [
+      "brunch",
+      "bar",
+      "live-music",
+      "pet-friendly",
+      "catering"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_033",
+    "name": "Coconut Bar",
+    "cuisine_type": "Thai",
+    "location": "Downtown",
+    "address": "3804 Oak St, Downtown",
+    "phone": "(447) 384-8890",
+    "email": "info@coconutbar.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 4.2,
+    "description": "Family-owned restaurant serving delicious thai food since 1995.",
+    "features": [
+      "catering",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "business-meeting",
+      "celebration"
+    ]
+  },
+  {
+    "id": "rest_034",
+    "name": "La Grill",
+    "cuisine_type": "Mexican",
+    "location": "Midtown",
+    "address": "5409 Pine St, Midtown",
+    "phone": "(428) 809-3118",
+    "email": "info@lagrill.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 3.9,
+    "description": "Upscale mexican dining with an extensive wine selection. Enjoy dining on our beautiful patio.",
+    "features": [
+      "parking",
+      "private-dining",
+      "wheelchair-accessible",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_035",
+    "name": "Basil Corner",
+    "cuisine_type": "Thai",
+    "location": "Westside",
+    "address": "7594 Second St, Westside",
+    "phone": "(439) 855-3616",
+    "email": "info@basilcorner.com",
+    "capacity": 20,
+    "price_range": "$40",
+    "rating": 4.8,
+    "description": "A modern take on classic thai dishes with fresh ingredients. Perfect for intimate dining and special occasions. Enjoy dining on our beautiful patio.",
+    "features": [
+      "romantic",
+      "outdoor-seating",
+      "parking",
+      "wine-bar",
+      "private-dining"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "date-night",
+      "birthday",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_036",
+    "name": "Taco Room",
+    "cuisine_type": "Mexican",
+    "location": "Westside",
+    "address": "956 First St, Westside",
+    "phone": "(525) 717-2053",
+    "email": "info@tacoroom.com",
+    "capacity": 30,
+    "price_range": "$40",
+    "rating": 3.8,
+    "description": "Upscale mexican dining with an extensive wine selection. Great for families with children.",
+    "features": [
+      "wine-bar",
+      "family-friendly",
+      "late-night",
+      "buffet"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "holiday-party",
+      "date-night",
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_037",
+    "name": "Villa Grill",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "1103 Elm St, Downtown",
+    "phone": "(284) 742-7092",
+    "email": "info@villagrill.com",
+    "capacity": 200,
+    "price_range": "$40",
+    "rating": 4.8,
+    "description": "Upscale italian dining with an extensive wine selection. Perfect for intimate dining and special occasions. Enjoy dining on our beautiful patio.",
+    "features": [
+      "wine-bar",
+      "live-music",
+      "romantic",
+      "late-night",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "corporate-event",
+      "celebration"
+    ]
+  },
+  {
+    "id": "rest_038",
+    "name": "El House",
+    "cuisine_type": "Mexican",
+    "location": "Downtown",
+    "address": "243 Broadway St, Downtown",
+    "phone": "(880) 246-1710",
+    "email": "info@elhouse.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 3.6,
+    "description": "Experience the finest mexican flavors with our traditional recipes. Perfect for intimate dining and special occasions.",
+    "features": [
+      "romantic",
+      "takeout"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "9:00-22:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "graduation",
+      "anniversary",
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_039",
+    "name": "Dragon Bistro",
+    "cuisine_type": "Chinese",
+    "location": "Uptown",
+    "address": "1462 Elm St, Uptown",
+    "phone": "(238) 999-1246",
+    "email": "info@dragonbistro.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 3.8,
+    "description": "A modern take on classic chinese dishes with fresh ingredients.",
+    "features": [
+      "rooftop",
+      "catering",
+      "gluten-free",
+      "buffet"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "10:00-24:00",
+      "saturday": "9:00-23:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "date-night",
+      "celebration",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_040",
+    "name": "Fiesta Garden",
+    "cuisine_type": "Mexican",
+    "location": "Midtown",
+    "address": "507 First St, Midtown",
+    "phone": "(775) 226-8967",
+    "email": "info@fiestagarden.com",
+    "capacity": 120,
+    "price_range": "$50",
+    "rating": 3.5,
+    "description": "Family-owned restaurant serving delicious mexican food since 1995.",
+    "features": [
+      "catering",
+      "rooftop"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "anniversary",
+      "corporate-event",
+      "celebration"
+    ]
+  },
+  {
+    "id": "rest_041",
+    "name": "Boulangerie Place",
+    "cuisine_type": "French",
+    "location": "Northside",
+    "address": "9344 Elm St, Northside",
+    "phone": "(305) 499-4370",
+    "email": "info@boulangerieplace.com",
+    "capacity": 60,
+    "price_range": "$50",
+    "rating": 3.7,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "wheelchair-accessible",
+      "business-friendly",
+      "live-music",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_042",
+    "name": "Curry Bistro",
+    "cuisine_type": "Indian",
+    "location": "Eastside",
+    "address": "4174 Center St, Eastside",
+    "phone": "(766) 952-9988",
+    "email": "info@currybistro.com",
+    "capacity": 30,
+    "price_range": "$30",
+    "rating": 3.5,
+    "description": "A modern take on classic indian dishes with fresh ingredients. Perfect for intimate dining and special occasions.",
+    "features": [
+      "romantic",
+      "wheelchair-accessible",
+      "delivery"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "8:00-22:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "celebration",
+      "anniversary",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_043",
+    "name": "Tokyo Garden",
+    "cuisine_type": "Japanese",
+    "location": "Financial District",
+    "address": "5206 Oak St, Financial District",
+    "phone": "(872) 254-5895",
+    "email": "info@tokyogarden.com",
+    "capacity": 120,
+    "price_range": "$20",
+    "rating": 4.3,
+    "description": "Upscale japanese dining with an extensive wine selection. Enjoy dining on our beautiful patio.",
+    "features": [
+      "private-dining",
+      "outdoor-seating",
+      "business-friendly",
+      "catering",
+      "late-night"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "9:00-22:00",
+      "friday": "9:00-23:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_044",
+    "name": "Casa Bistro",
+    "cuisine_type": "Mexican",
+    "location": "Northside",
+    "address": "8577 Main St, Northside",
+    "phone": "(557) 672-5928",
+    "email": "info@casabistro.com",
+    "capacity": 40,
+    "price_range": "$30",
+    "rating": 3.7,
+    "description": "Authentic mexican cuisine served in a welcoming atmosphere.",
+    "features": [
+      "parking",
+      "delivery",
+      "late-night"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "business-meeting",
+      "celebration"
+    ]
+  },
+  {
+    "id": "rest_045",
+    "name": "Spice Corner",
+    "cuisine_type": "Indian",
+    "location": "Uptown",
+    "address": "2561 Pine St, Uptown",
+    "phone": "(694) 382-3017",
+    "email": "info@spicecorner.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 3.7,
+    "description": "Experience the finest indian flavors with our traditional recipes.",
+    "features": [
+      "pet-friendly",
+      "business-friendly",
+      "bar",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "8:00-22:00",
+      "saturday": "8:00-22:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_046",
+    "name": "Casa Kitchen",
+    "cuisine_type": "Italian",
+    "location": "Downtown",
+    "address": "633 Center St, Downtown",
+    "phone": "(555) 830-9853",
+    "email": "info@casakitchen.com",
+    "capacity": 150,
+    "price_range": "$40",
+    "rating": 4.0,
+    "description": "Authentic italian cuisine served in a welcoming atmosphere.",
+    "features": [
+      "brunch",
+      "live-music",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "graduation",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_047",
+    "name": "Bombay House",
+    "cuisine_type": "Indian",
+    "location": "Southside",
+    "address": "5611 Oak St, Southside",
+    "phone": "(870) 144-2489",
+    "email": "info@bombayhouse.com",
+    "capacity": 40,
+    "price_range": "$50",
+    "rating": 4.6,
+    "description": "Upscale indian dining with an extensive wine selection. Enjoy dining on our beautiful patio.",
+    "features": [
+      "wheelchair-accessible",
+      "live-music",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "9:00-23:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "wedding-party",
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_048",
+    "name": "La Spot",
+    "cuisine_type": "French",
+    "location": "Eastside",
+    "address": "9211 Broadway St, Eastside",
+    "phone": "(985) 598-6488",
+    "email": "info@laspot.com",
+    "capacity": 120,
+    "price_range": "$50",
+    "rating": 4.0,
+    "description": "A modern take on classic french dishes with fresh ingredients.",
+    "features": [
+      "gluten-free",
+      "parking",
+      "buffet",
+      "vegan-options"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "date-night",
+      "business-meeting",
+      "holiday-party",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_049",
+    "name": "Casa Kitchen",
+    "cuisine_type": "Italian",
+    "location": "Southside",
+    "address": "6377 Pine St, Southside",
+    "phone": "(425) 170-5544",
+    "email": "info@casakitchen.com",
+    "capacity": 40,
+    "price_range": "$50",
+    "rating": 4.2,
+    "description": "Family-owned restaurant serving delicious italian food since 1995. Great for families with children.",
+    "features": [
+      "brunch",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "date-night",
+      "anniversary",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_050",
+    "name": "Tokyo Garden",
+    "cuisine_type": "Japanese",
+    "location": "Southside",
+    "address": "4526 Oak St, Southside",
+    "phone": "(702) 277-5081",
+    "email": "info@tokyogarden.com",
+    "capacity": 30,
+    "price_range": "$20",
+    "rating": 3.7,
+    "description": "Experience the finest japanese flavors with our traditional recipes. Great for families with children. Enjoy dining on our beautiful patio.",
+    "features": [
+      "family-friendly",
+      "outdoor-seating",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "celebration",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_051",
+    "name": "Bangkok Place",
+    "cuisine_type": "Thai",
+    "location": "Uptown",
+    "address": "3786 Oak St, Uptown",
+    "phone": "(884) 913-5806",
+    "email": "info@bangkokplace.com",
+    "capacity": 20,
+    "price_range": "$30",
+    "rating": 4.5,
+    "description": "Family-owned restaurant serving delicious thai food since 1995. Perfect for intimate dining and special occasions.",
+    "features": [
+      "catering",
+      "romantic",
+      "buffet",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "10:00-23:00",
+      "thursday": "9:00-22:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "corporate-event",
+      "holiday-party",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_052",
+    "name": "Coconut Grill",
+    "cuisine_type": "Thai",
+    "location": "Uptown",
+    "address": "3629 Oak St, Uptown",
+    "phone": "(273) 693-8442",
+    "email": "info@coconutgrill.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 4.5,
+    "description": "Authentic thai cuisine served in a welcoming atmosphere. Enjoy dining on our beautiful patio.",
+    "features": [
+      "private-dining",
+      "outdoor-seating",
+      "vegan-options",
+      "pet-friendly",
+      "takeout"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "business-meeting",
+      "wedding-party",
+      "corporate-event",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_053",
+    "name": "Cantina Garden",
+    "cuisine_type": "Mexican",
+    "location": "Midtown",
+    "address": "8201 Pine St, Midtown",
+    "phone": "(828) 482-2144",
+    "email": "info@cantinagarden.com",
+    "capacity": 80,
+    "price_range": "$50",
+    "rating": 3.8,
+    "description": "Authentic mexican cuisine served in a welcoming atmosphere. Great for families with children.",
+    "features": [
+      "catering",
+      "family-friendly",
+      "rooftop",
+      "brunch",
+      "private-dining",
+      "business-friendly"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_054",
+    "name": "Casa Room",
+    "cuisine_type": "Italian",
+    "location": "Northside",
+    "address": "495 Elm St, Northside",
+    "phone": "(282) 244-8992",
+    "email": "info@casaroom.com",
+    "capacity": 150,
+    "price_range": "$50",
+    "rating": 3.6,
+    "description": "Authentic italian cuisine served in a welcoming atmosphere.",
+    "features": [
+      "buffet",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "family-gathering",
+      "corporate-event",
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_055",
+    "name": "Café Garden",
+    "cuisine_type": "French",
+    "location": "Northside",
+    "address": "942 Oak St, Northside",
+    "phone": "(586) 962-6655",
+    "email": "info@cafégarden.com",
+    "capacity": 80,
+    "price_range": "$30",
+    "rating": 3.7,
+    "description": "Family-owned restaurant serving delicious french food since 1995. Great for families with children.",
+    "features": [
+      "buffet",
+      "family-friendly",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "9:00-23:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_056",
+    "name": "Cantina Place",
+    "cuisine_type": "Mexican",
+    "location": "Westside",
+    "address": "2533 Oak St, Westside",
+    "phone": "(495) 646-5064",
+    "email": "info@cantinaplace.com",
+    "capacity": 120,
+    "price_range": "$20",
+    "rating": 4.7,
+    "description": "A modern take on classic mexican dishes with fresh ingredients. Enjoy dining on our beautiful patio.",
+    "features": [
+      "pet-friendly",
+      "outdoor-seating",
+      "brunch",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "corporate-event",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_057",
+    "name": "Bamboo Corner",
+    "cuisine_type": "Japanese",
+    "location": "Eastside",
+    "address": "8503 Oak St, Eastside",
+    "phone": "(371) 518-6708",
+    "email": "info@bamboocorner.com",
+    "capacity": 20,
+    "price_range": "$30",
+    "rating": 4.3,
+    "description": "Experience the finest japanese flavors with our traditional recipes.",
+    "features": [
+      "vegan-options",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "holiday-party",
+      "family-gathering",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_058",
+    "name": "Sushi Spot",
+    "cuisine_type": "Japanese",
+    "location": "Southside",
+    "address": "2132 Pine St, Southside",
+    "phone": "(821) 539-1484",
+    "email": "info@sushispot.com",
+    "capacity": 200,
+    "price_range": "$30",
+    "rating": 3.6,
+    "description": "Authentic japanese cuisine served in a welcoming atmosphere. Great for families with children. Enjoy dining on our beautiful patio.",
+    "features": [
+      "outdoor-seating",
+      "private-dining",
+      "vegan-options",
+      "family-friendly",
+      "takeout"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "8:00-22:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_059",
+    "name": "Fiesta Room",
+    "cuisine_type": "Mexican",
+    "location": "Uptown",
+    "address": "249 Oak St, Uptown",
+    "phone": "(388) 469-3651",
+    "email": "info@fiestaroom.com",
+    "capacity": 60,
+    "price_range": "$30",
+    "rating": 4.9,
+    "description": "Family-owned restaurant serving delicious mexican food since 1995. Great for families with children.",
+    "features": [
+      "buffet",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "8:00-22:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_060",
+    "name": "Boulangerie Bar",
+    "cuisine_type": "French",
+    "location": "Downtown",
+    "address": "4258 Main St, Downtown",
+    "phone": "(967) 852-9567",
+    "email": "info@boulangeriebar.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 4.6,
+    "description": "A modern take on classic french dishes with fresh ingredients.",
+    "features": [
+      "catering",
+      "bar",
+      "delivery",
+      "private-dining"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "business-meeting",
+      "graduation",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_061",
+    "name": "Boulangerie Grill",
+    "cuisine_type": "French",
+    "location": "Southside",
+    "address": "8215 Center St, Southside",
+    "phone": "(264) 726-5456",
+    "email": "info@boulangeriegrill.com",
+    "capacity": 50,
+    "price_range": "$50",
+    "rating": 4.2,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "bar",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "11:00-22:30",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "10:00-24:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "date-night",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_062",
+    "name": "Tokyo House",
+    "cuisine_type": "Japanese",
+    "location": "Eastside",
+    "address": "1817 Center St, Eastside",
+    "phone": "(844) 993-8307",
+    "email": "info@tokyohouse.com",
+    "capacity": 100,
+    "price_range": "$40",
+    "rating": 4.0,
+    "description": "Upscale japanese dining with an extensive wine selection. Enjoy dining on our beautiful patio.",
+    "features": [
+      "gluten-free",
+      "late-night",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "9:00-23:00",
+      "saturday": "9:00-23:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "family-gathering",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_063",
+    "name": "Bella Table",
+    "cuisine_type": "Italian",
+    "location": "Eastside",
+    "address": "1221 Elm St, Eastside",
+    "phone": "(714) 428-5701",
+    "email": "info@bellatable.com",
+    "capacity": 20,
+    "price_range": "$20",
+    "rating": 3.6,
+    "description": "A modern take on classic italian dishes with fresh ingredients.",
+    "features": [
+      "gluten-free",
+      "parking",
+      "delivery",
+      "bar"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_064",
+    "name": "Bistro Restaurant",
+    "cuisine_type": "French",
+    "location": "Downtown",
+    "address": "959 Oak St, Downtown",
+    "phone": "(427) 477-9390",
+    "email": "info@bistrorestaurant.com",
+    "capacity": 30,
+    "price_range": "$50",
+    "rating": 3.6,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "private-dining",
+      "wheelchair-accessible",
+      "business-friendly",
+      "vegan-options"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "9:00-23:00",
+      "saturday": "9:00-23:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "corporate-event",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_065",
+    "name": "Casa Restaurant",
+    "cuisine_type": "Mexican",
+    "location": "Financial District",
+    "address": "7592 Pine St, Financial District",
+    "phone": "(701) 358-2578",
+    "email": "info@casarestaurant.com",
+    "capacity": 60,
+    "price_range": "$40",
+    "rating": 4.6,
+    "description": "A modern take on classic mexican dishes with fresh ingredients. Perfect for intimate dining and special occasions. Great for families with children.",
+    "features": [
+      "private-dining",
+      "family-friendly",
+      "business-friendly",
+      "romantic",
+      "bar"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_066",
+    "name": "Le Place",
+    "cuisine_type": "French",
+    "location": "Downtown",
+    "address": "7087 Pine St, Downtown",
+    "phone": "(799) 764-7662",
+    "email": "info@leplace.com",
+    "capacity": 150,
+    "price_range": "$30",
+    "rating": 4.7,
+    "description": "Upscale french dining with an extensive wine selection. Great for families with children.",
+    "features": [
+      "family-friendly",
+      "takeout",
+      "rooftop",
+      "brunch",
+      "pet-friendly",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_067",
+    "name": "Tony's Bistro",
+    "cuisine_type": "Italian",
+    "location": "Southside",
+    "address": "9598 Center St, Southside",
+    "phone": "(291) 131-6301",
+    "email": "info@tonysbistro.com",
+    "capacity": 60,
+    "price_range": "$30",
+    "rating": 3.8,
+    "description": "Family-owned restaurant serving delicious italian food since 1995. Perfect for intimate dining and special occasions. Great for families with children.",
+    "features": [
+      "business-friendly",
+      "live-music",
+      "family-friendly",
+      "romantic"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "9:00-23:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "date-night",
+      "graduation",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_068",
+    "name": "Bistro Place",
+    "cuisine_type": "French",
+    "location": "Southside",
+    "address": "3828 Center St, Southside",
+    "phone": "(505) 257-7761",
+    "email": "info@bistroplace.com",
+    "capacity": 60,
+    "price_range": "$40",
+    "rating": 4.0,
+    "description": "Experience the finest french flavors with our traditional recipes. Great for families with children.",
+    "features": [
+      "family-friendly",
+      "wine-bar",
+      "gluten-free",
+      "catering"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "10:00-23:00",
+      "friday": "8:00-22:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_069",
+    "name": "Siam Cafe",
+    "cuisine_type": "Thai",
+    "location": "Westside",
+    "address": "9735 Main St, Westside",
+    "phone": "(667) 153-9397",
+    "email": "info@siamcafe.com",
+    "capacity": 100,
+    "price_range": "$50",
+    "rating": 4.0,
+    "description": "Upscale thai dining with an extensive wine selection.",
+    "features": [
+      "catering",
+      "rooftop",
+      "business-friendly",
+      "vegan-options"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "9:00-23:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "date-night",
+      "celebration",
+      "graduation",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_070",
+    "name": "Taco Cafe",
+    "cuisine_type": "Mexican",
+    "location": "Westside",
+    "address": "9812 First St, Westside",
+    "phone": "(604) 914-7837",
+    "email": "info@tacocafe.com",
+    "capacity": 60,
+    "price_range": "$40",
+    "rating": 4.5,
+    "description": "Family-owned restaurant serving delicious mexican food since 1995.",
+    "features": [
+      "gluten-free",
+      "wine-bar",
+      "pet-friendly",
+      "late-night",
+      "buffet"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "family-gathering",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_071",
+    "name": "Taj Cafe",
+    "cuisine_type": "Indian",
+    "location": "Southside",
+    "address": "3131 First St, Southside",
+    "phone": "(347) 904-1245",
+    "email": "info@tajcafe.com",
+    "capacity": 150,
+    "price_range": "$20",
+    "rating": 4.9,
+    "description": "Authentic indian cuisine served in a welcoming atmosphere.",
+    "features": [
+      "gluten-free",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_072",
+    "name": "Café Corner",
+    "cuisine_type": "French",
+    "location": "Uptown",
+    "address": "9819 Oak St, Uptown",
+    "phone": "(583) 493-1016",
+    "email": "info@cafécorner.com",
+    "capacity": 20,
+    "price_range": "$40",
+    "rating": 4.7,
+    "description": "Authentic french cuisine served in a welcoming atmosphere.",
+    "features": [
+      "gluten-free",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "date-night",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_073",
+    "name": "Villa Spot",
+    "cuisine_type": "Italian",
+    "location": "Westside",
+    "address": "5498 Main St, Westside",
+    "phone": "(652) 117-3753",
+    "email": "info@villaspot.com",
+    "capacity": 200,
+    "price_range": "$50",
+    "rating": 5.0,
+    "description": "Experience the finest italian flavors with our traditional recipes. Perfect for intimate dining and special occasions. Great for families with children.",
+    "features": [
+      "delivery",
+      "romantic",
+      "late-night",
+      "buffet",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_074",
+    "name": "Zen Spot",
+    "cuisine_type": "Japanese",
+    "location": "Downtown",
+    "address": "9932 First St, Downtown",
+    "phone": "(564) 228-2936",
+    "email": "info@zenspot.com",
+    "capacity": 40,
+    "price_range": "$40",
+    "rating": 4.3,
+    "description": "Family-owned restaurant serving delicious japanese food since 1995. Enjoy dining on our beautiful patio.",
+    "features": [
+      "parking",
+      "outdoor-seating",
+      "business-friendly"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "family-gathering",
+      "corporate-event",
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_075",
+    "name": "Koi Grill",
+    "cuisine_type": "Japanese",
+    "location": "Eastside",
+    "address": "8028 Center St, Eastside",
+    "phone": "(716) 924-7524",
+    "email": "info@koigrill.com",
+    "capacity": 50,
+    "price_range": "$20",
+    "rating": 4.2,
+    "description": "Experience the finest japanese flavors with our traditional recipes.",
+    "features": [
+      "buffet",
+      "delivery",
+      "live-music",
+      "rooftop"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "holiday-party",
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_076",
+    "name": "La Restaurant",
+    "cuisine_type": "French",
+    "location": "Midtown",
+    "address": "8582 Broadway St, Midtown",
+    "phone": "(699) 475-7998",
+    "email": "info@larestaurant.com",
+    "capacity": 150,
+    "price_range": "$30",
+    "rating": 4.0,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "business-friendly",
+      "pet-friendly",
+      "takeout",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "birthday",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_077",
+    "name": "Siam Bar",
+    "cuisine_type": "Thai",
+    "location": "Northside",
+    "address": "3056 First St, Northside",
+    "phone": "(827) 523-2477",
+    "email": "info@siambar.com",
+    "capacity": 80,
+    "price_range": "$40",
+    "rating": 3.9,
+    "description": "Authentic thai cuisine served in a welcoming atmosphere. Great for families with children.",
+    "features": [
+      "business-friendly",
+      "private-dining",
+      "rooftop",
+      "bar",
+      "family-friendly"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "10:00-23:00",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "celebration",
+      "holiday-party",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_078",
+    "name": "Zen Place",
+    "cuisine_type": "Japanese",
+    "location": "Midtown",
+    "address": "5414 Oak St, Midtown",
+    "phone": "(285) 631-7894",
+    "email": "info@zenplace.com",
+    "capacity": 80,
+    "price_range": "$20",
+    "rating": 3.8,
+    "description": "A modern take on classic japanese dishes with fresh ingredients.",
+    "features": [
+      "wheelchair-accessible",
+      "parking",
+      "delivery",
+      "buffet",
+      "business-friendly",
+      "rooftop"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "9:00-23:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "family-gathering",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_079",
+    "name": "Spice Kitchen",
+    "cuisine_type": "Indian",
+    "location": "Westside",
+    "address": "7304 Oak St, Westside",
+    "phone": "(437) 906-8186",
+    "email": "info@spicekitchen.com",
+    "capacity": 150,
+    "price_range": "$40",
+    "rating": 4.6,
+    "description": "A modern take on classic indian dishes with fresh ingredients.",
+    "features": [
+      "parking",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "wedding-party"
+    ]
+  },
+  {
+    "id": "rest_080",
+    "name": "Phoenix Garden",
+    "cuisine_type": "Chinese",
+    "location": "Westside",
+    "address": "619 Pine St, Westside",
+    "phone": "(222) 148-8458",
+    "email": "info@phoenixgarden.com",
+    "capacity": 30,
+    "price_range": "$50",
+    "rating": 4.2,
+    "description": "A modern take on classic chinese dishes with fresh ingredients.",
+    "features": [
+      "buffet",
+      "rooftop",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_081",
+    "name": "Curry Restaurant",
+    "cuisine_type": "Indian",
+    "location": "Southside",
+    "address": "6382 Broadway St, Southside",
+    "phone": "(965) 430-3134",
+    "email": "info@curryrestaurant.com",
+    "capacity": 40,
+    "price_range": "$20",
+    "rating": 3.6,
+    "description": "Family-owned restaurant serving delicious indian food since 1995.",
+    "features": [
+      "private-dining",
+      "vegan-options"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_082",
+    "name": "Fiesta Restaurant",
+    "cuisine_type": "Mexican",
+    "location": "Northside",
+    "address": "9942 First St, Northside",
+    "phone": "(838) 263-1156",
+    "email": "info@fiestarestaurant.com",
+    "capacity": 120,
+    "price_range": "$30",
+    "rating": 4.7,
+    "description": "A modern take on classic mexican dishes with fresh ingredients.",
+    "features": [
+      "wine-bar",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "8:00-22:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "birthday",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_083",
+    "name": "Siam Corner",
+    "cuisine_type": "Thai",
+    "location": "Westside",
+    "address": "3749 Elm St, Westside",
+    "phone": "(261) 178-3672",
+    "email": "info@siamcorner.com",
+    "capacity": 50,
+    "price_range": "$30",
+    "rating": 4.5,
+    "description": "Experience the finest thai flavors with our traditional recipes. Enjoy dining on our beautiful patio.",
+    "features": [
+      "outdoor-seating",
+      "buffet",
+      "pet-friendly",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "business-meeting",
+      "date-night",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rest_084",
+    "name": "Jade Cafe",
+    "cuisine_type": "Chinese",
+    "location": "Southside",
+    "address": "7821 Second St, Southside",
+    "phone": "(338) 990-8662",
+    "email": "info@jadecafe.com",
+    "capacity": 60,
+    "price_range": "$50",
+    "rating": 4.1,
+    "description": "A modern take on classic chinese dishes with fresh ingredients. Enjoy dining on our beautiful patio.",
+    "features": [
+      "pet-friendly",
+      "outdoor-seating",
+      "brunch",
+      "vegan-options",
+      "live-music",
+      "takeout"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "8:00-22:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_085",
+    "name": "Thai Garden",
+    "cuisine_type": "Thai",
+    "location": "Eastside",
+    "address": "4291 First St, Eastside",
+    "phone": "(709) 345-1489",
+    "email": "info@thaigarden.com",
+    "capacity": 120,
+    "price_range": "$20",
+    "rating": 3.7,
+    "description": "A modern take on classic thai dishes with fresh ingredients. Perfect for intimate dining and special occasions.",
+    "features": [
+      "romantic",
+      "wheelchair-accessible",
+      "takeout",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "wedding-party",
+      "anniversary",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_086",
+    "name": "Fiesta Place",
+    "cuisine_type": "Mexican",
+    "location": "Eastside",
+    "address": "3894 Broadway St, Eastside",
+    "phone": "(903) 141-3759",
+    "email": "info@fiestaplace.com",
+    "capacity": 200,
+    "price_range": "$20",
+    "rating": 4.7,
+    "description": "A modern take on classic mexican dishes with fresh ingredients. Enjoy dining on our beautiful patio.",
+    "features": [
+      "takeout",
+      "outdoor-seating"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "family-gathering",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_087",
+    "name": "Spice Grill",
+    "cuisine_type": "Indian",
+    "location": "Northside",
+    "address": "1720 Elm St, Northside",
+    "phone": "(572) 282-4981",
+    "email": "info@spicegrill.com",
+    "capacity": 80,
+    "price_range": "$50",
+    "rating": 4.7,
+    "description": "Experience the finest indian flavors with our traditional recipes. Enjoy dining on our beautiful patio.",
+    "features": [
+      "wine-bar",
+      "outdoor-seating",
+      "buffet",
+      "bar",
+      "wheelchair-accessible"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "10:00-24:00",
+      "saturday": "8:00-22:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "celebration",
+      "birthday",
+      "date-night",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_088",
+    "name": "Curry Table",
+    "cuisine_type": "Indian",
+    "location": "Midtown",
+    "address": "5039 Center St, Midtown",
+    "phone": "(215) 945-7520",
+    "email": "info@currytable.com",
+    "capacity": 200,
+    "price_range": "$50",
+    "rating": 3.9,
+    "description": "Authentic indian cuisine served in a welcoming atmosphere. Perfect for intimate dining and special occasions.",
+    "features": [
+      "wine-bar",
+      "romantic",
+      "delivery"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "graduation",
+      "holiday-party",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_089",
+    "name": "Coconut Bistro",
+    "cuisine_type": "Thai",
+    "location": "Financial District",
+    "address": "7259 Pine St, Financial District",
+    "phone": "(478) 940-4392",
+    "email": "info@coconutbistro.com",
+    "capacity": 200,
+    "price_range": "$30",
+    "rating": 4.5,
+    "description": "A modern take on classic thai dishes with fresh ingredients. Perfect for intimate dining and special occasions. Enjoy dining on our beautiful patio.",
+    "features": [
+      "romantic",
+      "private-dining",
+      "outdoor-seating",
+      "bar",
+      "wine-bar"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "8:00-21:00",
+      "friday": "10:00-24:00",
+      "saturday": "9:00-23:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "birthday",
+      "graduation",
+      "business-meeting",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_090",
+    "name": "Taco Grill",
+    "cuisine_type": "Mexican",
+    "location": "Westside",
+    "address": "1571 Second St, Westside",
+    "phone": "(223) 863-4708",
+    "email": "info@tacogrill.com",
+    "capacity": 50,
+    "price_range": "$30",
+    "rating": 3.8,
+    "description": "Authentic mexican cuisine served in a welcoming atmosphere. Perfect for intimate dining and special occasions.",
+    "features": [
+      "romantic",
+      "buffet",
+      "live-music",
+      "business-friendly",
+      "bar",
+      "pet-friendly"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "10:00-23:00",
+      "friday": "8:00-22:00",
+      "saturday": "10:00-24:00",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "corporate-event"
+    ]
+  },
+  {
+    "id": "rest_091",
+    "name": "Curry Grill",
+    "cuisine_type": "Indian",
+    "location": "Downtown",
+    "address": "3714 Main St, Downtown",
+    "phone": "(372) 175-2717",
+    "email": "info@currygrill.com",
+    "capacity": 30,
+    "price_range": "$20",
+    "rating": 3.7,
+    "description": "Experience the finest indian flavors with our traditional recipes.",
+    "features": [
+      "late-night",
+      "private-dining",
+      "buffet",
+      "wine-bar",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "wedding-party",
+      "celebration",
+      "graduation",
+      "holiday-party"
+    ]
+  },
+  {
+    "id": "rest_092",
+    "name": "Villa Bistro",
+    "cuisine_type": "Italian",
+    "location": "Financial District",
+    "address": "3019 Second St, Financial District",
+    "phone": "(550) 433-9102",
+    "email": "info@villabistro.com",
+    "capacity": 40,
+    "price_range": "$30",
+    "rating": 4.0,
+    "description": "Family-owned restaurant serving delicious italian food since 1995.",
+    "features": [
+      "vegan-options",
+      "delivery",
+      "brunch",
+      "live-music"
+    ],
+    "opening_hours": {
+      "monday": "9:00-22:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "business-meeting",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_093",
+    "name": "Villa Cafe",
+    "cuisine_type": "Italian",
+    "location": "Eastside",
+    "address": "706 First St, Eastside",
+    "phone": "(406) 992-8067",
+    "email": "info@villacafe.com",
+    "capacity": 120,
+    "price_range": "$20",
+    "rating": 4.5,
+    "description": "Authentic italian cuisine served in a welcoming atmosphere.",
+    "features": [
+      "parking",
+      "gluten-free"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "8:00-21:00",
+      "friday": "11:00-23:30",
+      "saturday": "11:00-23:30",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "celebration",
+      "family-gathering",
+      "graduation",
+      "birthday"
+    ]
+  },
+  {
+    "id": "rest_094",
+    "name": "Bistro Place",
+    "cuisine_type": "French",
+    "location": "Eastside",
+    "address": "2625 Center St, Eastside",
+    "phone": "(519) 484-4851",
+    "email": "info@bistroplace.com",
+    "capacity": 30,
+    "price_range": "$30",
+    "rating": 4.5,
+    "description": "Experience the finest french flavors with our traditional recipes. Great for families with children.",
+    "features": [
+      "family-friendly",
+      "catering",
+      "business-friendly",
+      "wine-bar",
+      "delivery"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "10:00-23:00",
+      "friday": "11:00-23:30",
+      "saturday": "8:00-22:00",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "date-night"
+    ]
+  },
+  {
+    "id": "rest_095",
+    "name": "Coconut Corner",
+    "cuisine_type": "Thai",
+    "location": "Southside",
+    "address": "1225 First St, Southside",
+    "phone": "(431) 637-7956",
+    "email": "info@coconutcorner.com",
+    "capacity": 20,
+    "price_range": "$40",
+    "rating": 4.8,
+    "description": "A modern take on classic thai dishes with fresh ingredients.",
+    "features": [
+      "wheelchair-accessible",
+      "bar",
+      "parking"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "10:00-23:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "11:00-22:30",
+      "friday": "10:00-24:00",
+      "saturday": "11:00-23:30",
+      "sunday": "9:00-23:00"
+    },
+    "special_occasions": [
+      "anniversary",
+      "wedding-party",
+      "holiday-party",
+      "business-meeting"
+    ]
+  },
+  {
+    "id": "rest_096",
+    "name": "Tony's Kitchen",
+    "cuisine_type": "Italian",
+    "location": "Uptown",
+    "address": "6367 Broadway St, Uptown",
+    "phone": "(492) 812-4183",
+    "email": "info@tonyskitchen.com",
+    "capacity": 40,
+    "price_range": "$40",
+    "rating": 4.5,
+    "description": "Authentic italian cuisine served in a welcoming atmosphere.",
+    "features": [
+      "rooftop",
+      "private-dining"
+    ],
+    "opening_hours": {
+      "monday": "8:00-21:00",
+      "tuesday": "9:00-22:00",
+      "wednesday": "11:00-22:30",
+      "thursday": "9:00-22:00",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "11:00-23:30"
+    },
+    "special_occasions": [
+      "holiday-party",
+      "wedding-party",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_097",
+    "name": "Rajah House",
+    "cuisine_type": "Indian",
+    "location": "Financial District",
+    "address": "5492 Oak St, Financial District",
+    "phone": "(830) 698-2347",
+    "email": "info@rajahhouse.com",
+    "capacity": 30,
+    "price_range": "$40",
+    "rating": 3.6,
+    "description": "A modern take on classic indian dishes with fresh ingredients. Enjoy dining on our beautiful patio.",
+    "features": [
+      "outdoor-seating",
+      "wheelchair-accessible"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "8:00-21:00",
+      "wednesday": "10:00-23:00",
+      "thursday": "8:00-21:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "graduation",
+      "celebration"
+    ]
+  },
+  {
+    "id": "rest_098",
+    "name": "La Cafe",
+    "cuisine_type": "Mexican",
+    "location": "Northside",
+    "address": "4312 First St, Northside",
+    "phone": "(561) 998-1597",
+    "email": "info@lacafe.com",
+    "capacity": 30,
+    "price_range": "$30",
+    "rating": 4.8,
+    "description": "Authentic mexican cuisine served in a welcoming atmosphere. Perfect for intimate dining and special occasions. Enjoy dining on our beautiful patio.",
+    "features": [
+      "outdoor-seating",
+      "brunch",
+      "romantic"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "9:00-22:00",
+      "wednesday": "8:00-21:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "11:00-23:30",
+      "sunday": "8:00-22:00"
+    },
+    "special_occasions": [
+      "family-gathering",
+      "birthday",
+      "holiday-party",
+      "graduation"
+    ]
+  },
+  {
+    "id": "rest_099",
+    "name": "Chez Garden",
+    "cuisine_type": "French",
+    "location": "Westside",
+    "address": "3411 Main St, Westside",
+    "phone": "(420) 584-8164",
+    "email": "info@chezgarden.com",
+    "capacity": 60,
+    "price_range": "$40",
+    "rating": 3.6,
+    "description": "Upscale french dining with an extensive wine selection.",
+    "features": [
+      "delivery",
+      "live-music",
+      "catering",
+      "private-dining"
+    ],
+    "opening_hours": {
+      "monday": "10:00-23:00",
+      "tuesday": "11:00-22:30",
+      "wednesday": "8:00-21:00",
+      "thursday": "11:00-22:30",
+      "friday": "9:00-23:00",
+      "saturday": "10:00-24:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "date-night",
+      "anniversary",
+      "holiday-party",
+      "family-gathering"
+    ]
+  },
+  {
+    "id": "rest_100",
+    "name": "Bangkok Room",
+    "cuisine_type": "Thai",
+    "location": "Eastside",
+    "address": "119 Main St, Eastside",
+    "phone": "(720) 586-1266",
+    "email": "info@bangkokroom.com",
+    "capacity": 200,
+    "price_range": "$40",
+    "rating": 4.3,
+    "description": "Experience the finest thai flavors with our traditional recipes.",
+    "features": [
+      "parking",
+      "wheelchair-accessible"
+    ],
+    "opening_hours": {
+      "monday": "11:00-22:30",
+      "tuesday": "10:00-23:00",
+      "wednesday": "9:00-22:00",
+      "thursday": "10:00-23:00",
+      "friday": "9:00-23:00",
+      "saturday": "8:00-22:00",
+      "sunday": "10:00-24:00"
+    },
+    "special_occasions": [
+      "corporate-event",
+      "family-gathering",
+      "business-meeting"
+    ]
+  }
+]
