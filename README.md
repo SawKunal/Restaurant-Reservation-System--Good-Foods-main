@@ -42,3 +42,20 @@ git clone https://github.com/<your-username>/goodfoods-restaurant-reservation-ag
 cd goodfoods-restaurant-reservation-agent
 pip install -r requirements.txt
 streamlit run frontend/app.py
+```
+
+## 📝 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+## 📞 Contact
+
+For any questions, suggestions, or feedback, please reach out to:
+
+-    **Email:** [kunalsaw556@gmail.com](mailto:your.email@example.com)
+-    **GitHub:** [SawKunal](https://github.com/yourusername)
+
+---
+
+_Thank you for using the AI-Powered Business Documentation Analyzer! We hope it empowers your business insights and decision-making processes._
+# Restaurant-Reservation-System--Good-Foods-main
